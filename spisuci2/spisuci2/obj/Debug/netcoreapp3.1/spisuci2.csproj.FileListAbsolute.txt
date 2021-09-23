@@ -1,0 +1,13 @@
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\bin\Debug\netcoreapp3.1\spisuci2.exe
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\bin\Debug\netcoreapp3.1\spisuci2.deps.json
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\bin\Debug\netcoreapp3.1\spisuci2.runtimeconfig.json
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\bin\Debug\netcoreapp3.1\spisuci2.runtimeconfig.dev.json
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\bin\Debug\netcoreapp3.1\spisuci2.dll
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\bin\Debug\netcoreapp3.1\spisuci2.pdb
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.csprojAssemblyReference.cache
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.AssemblyInfoInputs.cache
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.AssemblyInfo.cs
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.dll
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.pdb
+C:\Users\Students\Desktop\12B - Tortoise\spisuci2\spisuci2\obj\Debug\netcoreapp3.1\spisuci2.genruntimeconfig.cache

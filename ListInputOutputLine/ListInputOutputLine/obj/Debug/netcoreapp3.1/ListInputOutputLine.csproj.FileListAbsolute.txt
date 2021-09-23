@@ -1,0 +1,12 @@
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.exe
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.deps.json
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.runtimeconfig.json
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.runtimeconfig.dev.json
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.dll
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\bin\Debug\netcoreapp3.1\ListInputOutputLine.pdb
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.AssemblyInfoInputs.cache
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.AssemblyInfo.cs
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.dll
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.pdb
+C:\Users\Students\Desktop\12B - Tortoise\ListInputOutputLine\ListInputOutputLine\obj\Debug\netcoreapp3.1\ListInputOutputLine.genruntimeconfig.cache
